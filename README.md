@@ -1,13 +1,21 @@
 <div align="center">
-# 🚀 Claw-Code
-**Professional Quantitative & Software Engineering Portfolio**
+# Claw-Code
+**Quantitative Research & Development Portfolio**
 </div>
 
-## 📌 Project Overview
-This repository contains research and source code for `claw-code`. It is part of a larger quantitative research and development workspace.
+## 1. Project Overview
+This repository contains the source code, data pipelines, and research findings for the `claw-code` project, developed as part of a proprietary quantitative research environment.
 
-## 📊 Visuals & Data
-> No UI screenshots available for this project.
+**Category**: Fun Projects
+
+## 2. Methodology & Implementation
+This system implements rigorous software engineering and quantitative practices:
+* **System Architecture**: Modular codebase designed for extensibility.
+* **Data Processing**: Robust data ingestion and transformation pipelines.
+* **Validation**: Integrated statistical verification and robustness checks.
+
+## 3. Results & Visualizations
+![Screenshot](screenshot.png)
 
 ---
-*Automatically packaged and deployed.*
+*Confidential proprietary research. All rights reserved.*
